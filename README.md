@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hello, I'm Emirhan,
 
 I'm a Mobile Developer
