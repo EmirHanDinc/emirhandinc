@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello, I'm Emirhan,
+
+I'm a Mobile Developer
 <!--
 **EmirHanDinc/emirhandinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
