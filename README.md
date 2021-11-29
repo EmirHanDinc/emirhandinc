@@ -1,6 +1,8 @@
 Hello, I'm Emirhan,
 
-I'm a Junior Software Developer
+🔭 I'm a Junior Software Developer
+🌱 I’m currently learning ...
+
 <!--
 **EmirHanDinc/emirhandinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
