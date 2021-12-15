@@ -1,6 +1,6 @@
 Hello, I'm Emirhan,
 
-🔭 I'm a Junior Software Developer
+🔭 I'm a Junior Game Developer,
 🌱 I’m currently learning ...
 
 <!--
