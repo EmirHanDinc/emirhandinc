@@ -1,6 +1,6 @@
 Hello, I'm Emirhan,
 
-🔭 I'm a Junior Game Developer,
+🔭 I'm a Junior Flutter Developer,
 🌱 I’m currently learning ...
 
 <!--
